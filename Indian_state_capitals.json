@@ -1,0 +1,25 @@
+{
+  "AN": {
+    "name": "Andaman & Nicobar",
+    "capital": "Port Blair",
+    "lat": "11.66702557",
+    "long": "92.73598262"
+  },
+  "AP": {
+    "name": "Andhra Pradesh",
+    "capital": "Juneau",
+    "lat": "20.9300",
+    "long": "77.7500"
+  },
+  "AC": {
+    "name": "Arunachal Pradesh",
+    "capital": "Itanagar",
+    "lat": "27.10039878",
+    "long": "93.61660071"
+  }, 
+    "ASM": {
+    "name": "Assam",
+    "capital": "Dispur",
+    "lat": "26.14402305",
+    "long": "91.76663611"
+  }, 
