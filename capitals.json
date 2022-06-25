@@ -17,10 +17,28 @@
     "lat": "27.10039878",
     "long": "93.61660071"
   }, 
-    "ASM": {
+    "AM": {
     "name": "Assam",
     "capital": "Dispur",
     "lat": "26.14402305",
     "long": "91.76663611"
-  }
+  },
+ "BH": {
+    "name": "Bihar",
+    "capital": "Patna",
+    "lat": "25.62495913",
+    "long": "85.13003861"
+  }, 
+  "CD": {
+    "name": "Chandigarh",
+    "capital": "Chandigarh",
+    "lat": "30.71999697",
+    "long": "76.78000565"
+  }, 
+    "CG": {
+    "name": "Chhattisgarh",
+    "capital": "Raipur",
+    "lat": "21.23499453",
+    "long": "	81.63500647"
+  }, 
 }
