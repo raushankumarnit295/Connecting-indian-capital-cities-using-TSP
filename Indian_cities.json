@@ -1,4 +1,5 @@
-'{"AN": {"name": "Andaman and Nicobar", "capital": "Port Blair", "lat": "11.66702557", "long": "92.73598262"},
+'{
+"AN": {"name": "Andaman and Nicobar", "capital": "Port Blair", "lat": "11.66702557", "long": "92.73598262"},
 "AP": {"name": "Andhra Pradesh", "capital": "Amravati", "lat": "20.9300", "long": "77.7500"}, 
 "AC": {"name": "Arunachal Pradesh", "capital": "Itanagar", "lat": "27.10039878", "long": "93.61660071"},
 "AM": {"name": "Assam", "capital": "Dispur", "lat": "26.14402305", "long": "91.76663611"},
@@ -27,4 +28,5 @@
 "UP": {"name": "Uttar Pradesh", "capital": "Lucknow", "lat": "26.85503908", "long": "80.91499874"},
 "UK": {"name": "Uttrakhand", "capital": "Dehra Dun", "lat": "30.32040895", "long": "78.05000565"},
 "WB": {"name": "West Bengal", "capital": "Kolkata", "lat": "22.4949693", "long": "88.32467566"},
-"TL": {"name": "Telangana", "capital": "Hydrabad", "lat": "17.20", "long": "78.30"}}'
+"TL": {"name": "Telangana", "capital": "Hydrabad", "lat": "17.20", "long": "78.30"}
+}'
