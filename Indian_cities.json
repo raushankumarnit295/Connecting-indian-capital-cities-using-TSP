@@ -1,44 +1,30 @@
-{
-  "AN": {
-    "name": "Andaman and Nicobar",
-    "capital": "Port Blair",
-    "lat": "11.66702557",
-    "long": "92.73598262"
-  },
-  "AP": {
-    "name": "Andhra Pradesh",
-    "capital": "Amravati",
-    "lat": "20.9300",
-    "long": "77.7500"
-  },
-  "AC": {
-    "name": "Arunachal Pradesh",
-    "capital": "Itanagar",
-    "lat": "27.10039878",
-    "long": "93.61660071"
-  }, 
-    "AM": {
-    "name": "Assam",
-    "capital": "Dispur",
-    "lat": "26.14402305",
-    "long": "91.76663611"
-  },
- "BH": {
-    "name": "Bihar",
-    "capital": "Patna",
-    "lat": "25.62495913",
-    "long": "85.13003861"
-  }, 
-  "CD": {
-    "name": "Chandigarh",
-    "capital": "Chandigarh",
-    "lat": "30.71999697",
-    "long": "76.78000565"
-  }, 
-    "CG": {
-    "name": "Chhattisgarh",
-    "capital": "Raipur",
-    "lat": "21.23499453",
-    "long": "81.63500647"
-  }, 
-}
+'{"AN": {"name": "Andaman and Nicobar", "capital": "Port Blair", "lat": "11.66702557", "long": "92.73598262"},' \
+              '"AP": {"name": "Andhra Pradesh", "capital": "Amravati", "lat": "20.9300", "long": "77.7500"}, ' \
+              '"AC": {"name": "Arunachal Pradesh", "capital": "Itanagar", "lat": "27.10039878", "long": "93.61660071"}, ' \
+              '"AM": {"name": "Assam", "capital": "Dispur", "lat": "26.14402305", "long": "91.76663611"}, ' \
+              '"BH": {"name": "Bihar", "capital": "Patna", "lat": "25.62495913", "long": "85.13003861"}, ' \
+              '"CG": {"name": "Chhattisgarh", "capital": "Raipur", "lat": "21.23499453", "long": "81.63500647"},' \
+              '"DL": {"name": "New Delhi", "capital": "New Delhi", "lat": "28.60002301", "long": "77.19998002"},' \
+              '"GO": {"name": "GOA", "capital": "Panaji", "lat": "15.491997", "long": "73.81800065"},' \
+              '"GJ": {"name": "Gujrat", "capital": "Gandhinagar", "lat": "23.237560", "long": "72.647781"},' \
+              '"HR": {"name": "Haryana", "capital": "Chandigarh", "lat": "30.71999697", "long": "76.78000565"},' \
+              '"HP": {"name": "Himachal Pradesh", "capital": "Shimla", "lat": "31.10002545", "long": "77.16659704"},' \
+              '"JK": {"name": "Jammu And Kashmir", "capital": "Srinagar", "lat": "34.09997154", "long": "74.81500932"},' \
+              '"JH": {"name": "Jharkhand", "capital": "Ranchi", "lat": "23.37000633", "long": "85.33002641"},' \
+              '"KN": {"name": "Karnataka", "capital": "Bangalore", "lat": "12.96999514", "long": "77.56000972"},' \
+              '"KL": {"name": "Kerala", "capital": "Thiruvananthapuram", "lat": "8.499983743", "long": "76.95002112"},' \
+              '"LD": {"name": "Lakshadweep", "capital": "Kavaratti", "lat": "10.56257331", "long": "72.63686717"},' \
+              '"MP": {"name": "Madhya Pradesh", "capital": "Bhopal", "lat": "23.24998781", "long": "77.40999304"},' \
+              '"MH": {"name": "Maharashtra", "capital": "Mumbai", "lat": "19.01699038", "long": "72.8569893"},' \
+              '"MN": {"name": "Manipur", "capital": "Imphal", "lat": "24.79997072", "long": "93.95001705"},' \
+              '"ME": {"name": "Meghalaya", "capital": "Shillong", "lat": "25.57049217", "long": "91.8800142"},' \
+              '"NG": {"name": "Nagaland", "capital": "Kohima", "lat": "25.6669979", "long": "94.11657019"},' \
+              '"OR": {"name": "Orissa", "capital": "Bhubaneshwar", "lat": "20.27042808", "long": "85.82736039"},' \
+              '"RJ": {"name": "Rajasthan", "capital": "Jaipur", "lat": "26.92113324", "long": "75.80998734"},' \
+              '"SK": {"name": "Sikkim", "capital": "Gangtok", "lat": "27.3333303", "long": "88.6166475"},' \
+              '"TN": {"name": "Tamil Nadu", "capital": "Chennai", "lat": "13.08998781", "long": "80.27999874"},' \
+              '"TR": {"name": "Tripura", "capital": "Agartala", "lat": "23.83540428", "long": "91.27999914"},' \
+              '"UP": {"name": "Uttar Pradesh", "capital": "Lucknow", "lat": "26.85503908", "long": "80.91499874"},' \
+              '"UK": {"name": "Uttrakhand", "capital": "Dehra Dun", "lat": "30.32040895", "long": "78.05000565"},' \
+              '"WB": {"name": "West Bengal", "capital": "Kolkata", "lat": "22.4949693", "long": "88.32467566"},' \
+              '"TL": {"name": "Telangana", "capital": "Hydrabad", "lat": "17.20", "long": "78.30"}}'
